@@ -8,13 +8,14 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
- - title: "CV"
+
+- title: "CV"
      url: files/CV - Jared Nash.pdf
 
-  - title: "Teaching"
+- title: "Teaching"
     url: /teaching/   
      
-  - title: "Research/Publications"
+- title: "Research/Publications"
     url: /publications/
 
   #- title: "Talks"
