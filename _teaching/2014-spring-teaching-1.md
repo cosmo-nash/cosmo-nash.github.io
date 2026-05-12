@@ -1,9 +1,10 @@
 ---
-title: "The Wheeler School"
+title: "Achievement First Mayoral Academy"
 collection: teaching
-type: "Undergraduate course"
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "Lead Mathematics Instructor"
+date: '23 - '24
+location: "Cranston, RI"
 ---
-Aerie Instructor
+Used data-driven methods to Evaluate 150+ students’ progress via weekly assessments, improving class average by over 20% on Rhode Island State Assessments
+Tracked growth for struggling learners and designed targeted intervention plans
+Motivated students in science and technology related projects and experiments
