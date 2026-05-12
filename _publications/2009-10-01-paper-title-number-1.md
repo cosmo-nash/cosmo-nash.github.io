@@ -1,12 +1,11 @@
 ---
-title: "Primary Beam Modeling in 21 cm Cosmology - A Comparative Analysis for Improving Frequency-Axis Interpolation"
+title: "The Impact of [Your Thesis Topic] on [Something Cool]"
 collection: publications
-category: manuscripts
-excerpt: 'Master's thesis'
-date: 2026-05-01
-slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
-paperurl: 'https://academicpages.github.io/files/paper1.pdf'
-bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+category: thesis  # This creates a new internal category
+permalink: /publication/2024-05-15-masters-thesis
+excerpt: "A brief summary of your main argument or findings. This is what shows up on the main list page."
+date: 2024-05-15
+venue: "Master's Thesis, Brown University" # Replace Journal Name with this
+paperurl: '/files/Jared_Nash_Thesis.pdf'
+citation: 'Jared Nash. (2024). &quot;The Impact of [Your Thesis Topic].&quot; <i>Master’s Thesis</i>, Brown University.'
 ---
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
