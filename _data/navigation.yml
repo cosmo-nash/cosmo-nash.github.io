@@ -22,7 +22,7 @@
 main:
 
   - title: "CV"
-    url: "files/CV - Jared Nash.pdf"
+    url: /files/CV - Jared Nash.pdf
 
   - title: "Teaching"
     url: /teaching/   
