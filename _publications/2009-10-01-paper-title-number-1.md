@@ -2,7 +2,7 @@
 title: "Primary Beam Modeling in 21 cm Cosmology - A Comparative Analysis for Improving Frequency-Axis Interpolation"
 collection: publications
 category: thesis  # This creates a new internal category
-excerpt: "**Abstract**: he 21 cm signal offers a unique observational window into the evolution and large-scale struc-
+excerpt: "**Abstract**: The 21 cm signal offers a unique observational window into the evolution and large-scale struc-
 ture of the early Universe. In response to the challenges associated with measuring the 21 cm
 power spectrum, a variety of novel statistical methods have been developed in recent years, in-
 cluding analysis pipelines designed to model one’s primary beam. Among the principal limitations
