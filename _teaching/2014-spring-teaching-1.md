@@ -2,7 +2,7 @@
 title: "Achievement First Mayoral Academy"
 collection: teaching
 type: "Lead Mathematics Instructor"
-date: 2023-01-01
+date: "2023-01-01"
 location: "Cranston, RI"
 ---
 Used data-driven methods to Evaluate 150+ students’ progress via weekly assessments, improving class average by over 20% on Rhode Island State Assessments
