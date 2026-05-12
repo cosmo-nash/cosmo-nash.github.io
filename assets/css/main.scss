@@ -1,43 +1,15 @@
 ---
+# Front matter is required for Jekyll to process this file
 ---
 
-/*
- * This file controls what is imported from /_sass
- *
- * Note that the files are processed in the order they are imported, so they are partly
-   sorted by the dependencies. Also, the first two lines of the file are required by Jekyll.
- */
+/* 1. The Google Font you chose */
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&display=swap');
 
-@import
-    "vendor/breakpoint/breakpoint",
+/* 2. Define the font variables */
+/* Even though it's a serif font, the template uses the $sans-serif variable for almost everything */
+$sans-serif: "Crimson Text", serif;
+$global-font-family: $sans-serif;
 
-    "themes",
-    "theme/{{ site.site_theme | default: 'default' | append: '_light' }}",
-    "theme/{{ site.site_theme | default: 'default' | append: '_dark' }}",
-
-    "include/mixins",
-    "vendor/susy/susy",
-
-    "layout/reset",
-    "layout/base",
-
-    "include/utilities",
-    "layout/tables",
-    "layout/buttons",
-    "layout/notices",
-    "layout/masthead",
-    "layout/navigation",
-    "layout/footer",
-    "syntax",
-
-    "layout/forms",
-
-    "layout/page",
-    "layout/archive",
-    "layout/sidebar",
-    "layout/json_cv",
-
-    "vendor/font-awesome/fontawesome",
-    "vendor/font-awesome/solid",
-    "vendor/font-awesome/brands"
-;
+/* 3. The theme imports (Keep these as they are) */
+@import "minimal-mistakes/skins/{{ site.site_theme | default: 'default' }}"; 
+@import "minimal-mistakes";
