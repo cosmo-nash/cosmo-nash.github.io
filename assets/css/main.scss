@@ -1,15 +1,44 @@
 ---
-# Front matter is required for Jekyll to process this file
 ---
 
-/* 1. The Google Font you chose */
+/* 1. Import your Google Font at the very top */
 @import url('https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&display=swap');
 
-/* 2. Define the font variables */
-/* Even though it's a serif font, the template uses the $sans-serif variable for almost everything */
+/* 2. Define your font variables */
 $sans-serif: "Crimson Text", serif;
 $global-font-family: $sans-serif;
 
-/* 3. The theme imports (Keep these as they are) */
-@import "minimal-mistakes/skins/{{ site.site_theme | default: 'default' }}"; 
-@import "minimal-mistakes";
+/* 3. The original import list, but fixed for your 'dirt' theme */
+@import
+    "vendor/breakpoint/breakpoint",
+
+    "themes",
+    "theme/dirt_light",
+    "theme/dirt_dark",
+
+    "include/mixins",
+    "vendor/susy/susy",
+
+    "layout/reset",
+    "layout/base",
+
+    "include/utilities",
+    "layout/tables",
+    "layout/buttons",
+    "layout/notices",
+    "layout/masthead",
+    "layout/navigation",
+    "layout/footer",
+    "syntax",
+
+    "layout/forms",
+
+    "layout/page",
+    "layout/archive",
+    "layout/sidebar",
+    "layout/json_cv",
+
+    "vendor/font-awesome/fontawesome",
+    "vendor/font-awesome/solid",
+    "vendor/font-awesome/brands"
+;
