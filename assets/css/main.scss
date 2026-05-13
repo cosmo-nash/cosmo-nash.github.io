@@ -41,3 +41,7 @@ $global-font-family: $sans-serif;
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+/* 3. Bulletproof CSS Override to force Crimson Text everywhere */
+body, h1, h2, h3, h4, h5, h6, p, a, li, .author__name, .page__title, .archive__item-title {
+    font-family: 'Crimson Text', serif !important;
+}
