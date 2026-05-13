@@ -13,7 +13,8 @@ $global-font-family: $sans-serif;
     "vendor/breakpoint/breakpoint",
 
     "themes",
-    "theme/dirt_dark",
+    "theme/{{ site.site_theme | default: 'default' | append: '_dark' }}",
+
 
     "include/mixins",
     "vendor/susy/susy",
