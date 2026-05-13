@@ -26,7 +26,7 @@ author:
   avatar           : "profile_image.jpeg"
   name             : "Jared Nash"
   pronouns         : # example: "she/her"  
-  bio              : "Graduate student in physics at Brown University"
+  bio              : 
   location         : "Providence, Rhode Island"
   employer         : "Brown University"
   uri              : # URL
