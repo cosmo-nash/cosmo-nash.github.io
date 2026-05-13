@@ -93,7 +93,7 @@ publication_category:
   thesis:
     title: 'Theses'
   poster:
-    title: 'Posters'
+    title: 'Talks & Posters'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
