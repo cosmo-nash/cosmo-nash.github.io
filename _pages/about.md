@@ -9,7 +9,7 @@ redirect_from:
 
 My name is Jared, I am second year master's student at Brown University 🐻
 
-My research interests are in cosmology, theoretical astrophysics, and statistical mechanics. My background spans Cosmic Mircowave Background (CMB) experiment, high energy theory, compuation, and data analytics for 21 cm Cosmology. I'm also a part-time teacher from middle school mathematics to quantum theory. 
+My research interests are in cosmology, theoretical astrophysics, and statistical mechanics. My background spans Cosmic Mircowave Background (CMB) experiment, high energy theory, compuation, and data analytics for 21 cm Cosmology. I'm also a part-time teacher and tutor in everything from middle school mathematics to quantum theory. 
 
 Outside of my interests in physics, I enjoy learning about aspects of quantitative finance and trading. 📈
 
